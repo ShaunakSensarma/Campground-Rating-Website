@@ -4,9 +4,9 @@
   "description": "YelpCamp v1",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "screen": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Colt Steele",
+  "author": "Colt Sparrow",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.14.1",
